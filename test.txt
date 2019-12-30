@@ -1,0 +1,1 @@
+https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-3.6.13.tgz
